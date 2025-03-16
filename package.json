@@ -1,0 +1,18 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "main": "google.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5",
+    "allure-playwright": "^3.2.0"
+  },
+  "dependencies": {
+    "allure": "^0.0.0"
+  }
+}

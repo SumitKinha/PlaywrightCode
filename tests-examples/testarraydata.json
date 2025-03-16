@@ -1,0 +1,25 @@
+[
+  {
+    "id":1,
+    "name":"sumit",
+    "username":"dummy1@gmail.com",
+    "password":"aaaaaaa"
+  },
+ {
+    "id":2,
+    "name":"kumar",
+    "username":"dummy2@gmail.com",
+    "password":"bbbbbbb"
+
+ },
+ {
+
+    "id":"3",
+    "name":"kinha",
+    "username":"dummy3@gmail.com",
+    "password":"ccccccc"
+
+ }
+
+
+]

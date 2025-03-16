@@ -1,0 +1,13 @@
+{
+    "name":"sumit",
+   "username":"admin@email.com",
+   "password":"admin@123",
+   "interests":["Playwright","Java","python"],
+   "otherjson":{
+
+    "address":"Badsa",
+    "district:":"jhajjar"
+
+   }
+
+}
